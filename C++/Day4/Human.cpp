@@ -1,0 +1,48 @@
+/*
+	step3.
+	char 포인터의 name, int타임의 age, 출력을 담당하는 showHuman()을 가지는 Human 클래스가 있다.
+	name을 동적할당하고 나이 30, 이름 홍명보인 man 객체를 생성하시오.
+	man 객체를 복사하여 copyman 객체를 생성하시오.
+*/
+//#define _CRT_SECURE_NO_WARNINGS
+//#include <iostream>
+//
+//class Human {
+//public:
+//	char* name;
+//	int age;
+//	Human(const char* _n = "default", int a = 0) {
+//		printf("basic!\n");
+//		this->age = a;
+//		this->name = new char[strlen(_n)+1];
+//		strcpy(this->name, _n);
+//	}
+//	Human(const Human& other) {
+//		printf("copy!\n");
+//		age = other.age;
+//		name = new char[strlen(other.name) + 1];
+//		strcpy(this->name, other.name);
+//	}
+//	~Human() {
+//		printf("delete!\n");
+//		delete[]name;
+//	}
+//	void showHuman() {
+//		printf("name : %s, age: %d\n", name, age);
+//	}
+//};
+//
+//int main()
+//{
+//	Human man("홍명보", 30);
+//	man.showHuman();
+//
+//	Human copyman(man);
+//	copyman.showHuman();
+//
+//	Human xman;
+//	xman = copyman;
+//	xman.showHuman();
+//
+//	return 0;
+//}

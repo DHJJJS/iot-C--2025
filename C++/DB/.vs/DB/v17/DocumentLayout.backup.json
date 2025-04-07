@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\C\u002B\u002B\\DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|C:\\Work\\C\u002B\u002B\\DB\\CheckList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|solutionrelative:CheckList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|C:\\Work\\C\u002B\u002B\\DB\\DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|solutionrelative:DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|C:\\Work\\C\u002B\u002B\\DB\\DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5C2EC7A-1ADA-40B5-8F8D-CA69BB4938F7}|DB.vcxproj|solutionrelative:DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckList.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\DB\\CheckList.cpp",
+              "RelativeDocumentMoniker": "CheckList.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\DB\\CheckList.cpp",
+              "RelativeToolTip": "CheckList.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAgwIEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T03:43:49.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB2.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\DB\\DB2.cpp",
+              "RelativeDocumentMoniker": "DB2.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\DB\\DB2.cpp",
+              "RelativeToolTip": "DB2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T00:32:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002B\\DB\\DB.cpp",
+              "RelativeDocumentMoniker": "DB.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002B\\DB\\DB.cpp",
+              "RelativeToolTip": "DB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T07:57:35.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
